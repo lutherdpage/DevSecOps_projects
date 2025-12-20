@@ -22,7 +22,7 @@ jobs:
 
   scan:
     name: IaC Scan
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     needs: setup   # ensures Trivy is installed first
 
     steps:
