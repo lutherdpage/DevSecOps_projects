@@ -67,8 +67,6 @@ Push to main branch to trigger workflows.
 
 📋 Notes
 
-This project was built by following a guided DevSecOps tutorial.
-
 All workflows were tested and pushed from VS Code.
 
 Vulnerable code in Solaris.py is intentionally included for SAST demonstration.
