@@ -31,7 +31,7 @@ jobs:
 
   build:
     name: Image Scan
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     needs: deploy-and-scan
 
     steps:
